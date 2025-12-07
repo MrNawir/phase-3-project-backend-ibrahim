@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **FastAPI** - Modern Python web framework
 - **SQLAlchemy** - ORM for database operations
@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 backend/
@@ -34,7 +34,7 @@ backend/
 
 ---
 
-## 🚀 Local Development Setup
+## Local Development Setup
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ pipenv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 ---
 
-## 📝 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -89,7 +89,7 @@ pipenv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 ---
 
-## 🗃 Database Models
+## Database Models
 
 ### Venue
 - `id`, `name`, `address`, `city`, `capacity`, `image_url`, `created_at`
@@ -102,7 +102,7 @@ pipenv run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 
 ---
 
-## 🔧 Development Commands
+## Development Commands
 
 ```bash
 # Run development server
@@ -120,6 +120,6 @@ pipenv run python seed.py
 
 ---
 
-## 📄 License
+## License
 
 MIT
