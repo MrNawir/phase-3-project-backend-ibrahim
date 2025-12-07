@@ -1,4 +1,4 @@
-# Ticket2U Backend API 🎫
+# Ticket2U Backend API
 
 **FastAPI REST API** for the Ticket2U event ticketing platform.
 
